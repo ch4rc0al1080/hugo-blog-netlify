@@ -1,5 +1,6 @@
 baseURL = "https://nos4fe.site/"
-languageCode = "zh"
+languageCode = "zh-Hans"
+DefaultContentLanguage = "zh"
 title = "Ch4rc0al 的博客"
 theme = "dream"
 enableRobotsTXT = true
