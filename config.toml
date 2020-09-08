@@ -16,7 +16,7 @@ hasCJKLanguage = true
 
   author = "Ch4rc0al"
   description = "Ch4rc0al 的学习笔记与生活随笔"
-  avatar = "/me/yy.jpg"
+  avatar = "/me/avatar.jpg"
   motto = "Being a hASKER"
   categoriesLimitInHeader = 6
   # headerBottomText = ""
