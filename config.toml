@@ -1,0 +1,4 @@
+baseURL = "https://52sec.top/"
+languageCode = "zh-Hans"
+title = "My New Hugo Site"
+theme = "dream"
