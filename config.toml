@@ -1,4 +1,30 @@
-baseURL = "https://52sec.top/"
+baseURL = "https://nos4fe.site/"
 languageCode = "zh-Hans"
-title = "My New Hugo Site"
+title = "Ch4rc0al 的博客"
 theme = "dream"
+enableRobotsTXT = true
+hasCJKLanguage = true
+
+
+[params]
+#  background = "black"
+#  backgroundImage = "/me/background.jpg"
+  linkColor = "seagreen"
+
+  author = "Ch4rc0al"
+  description = "Ch4rc0al 的学习笔记与生活随笔"
+  avatar = "/me/yy.jpg"
+  motto = "Being a hASKER"
+  categoriesLimitInHeader = 6
+  # headerBottomText = ""
+
+  rss = true
+  
+  email = "charc0al@vip.qq.com"
+  
+  favicon = "/favicon.ico"
+  
+  highlightjs = true
+  
+  darkNav = true
+  dark404 = true
