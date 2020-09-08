@@ -6,6 +6,9 @@ enableRobotsTXT = true
 hasCJKLanguage = true
 
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [params]
 #  background = "black"
 #  backgroundImage = "/me/background.jpg"
@@ -17,7 +20,9 @@ hasCJKLanguage = true
   motto = "Being a hASKER"
   categoriesLimitInHeader = 6
   # headerBottomText = ""
-
+  
+  enableSearch = true
+  
   rss = true
   
   email = "charc0al@vip.qq.com"
