@@ -10,8 +10,8 @@ hasCJKLanguage = true
   home = ["HTML", "RSS", "JSON"]
 
 [params]
-#  background = "black"
-#  backgroundImage = "/me/background.jpg"
+  background = "black"
+  backgroundImage = "/me/background.jpg"
   linkColor = "seagreen"
 
   author = "Ch4rc0al"
