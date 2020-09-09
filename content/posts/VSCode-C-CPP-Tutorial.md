@@ -15,9 +15,6 @@ tags:
 # showcase: true
 ---
 
-![ff339b13652af89f9444759cef7f33d7.jpg](https://i.loli.net/2019/04/02/5ca3688320f2b.jpg)
-
-
 
 ### 简介
 
