@@ -31,6 +31,9 @@ hasCJKLanguage = true
   favicon = "/favicon.ico"
   
   highlightjs = true
+  highlightjsExtraLanguages = ["ocaml"]
+  highlightjsTheme = "tomorrow-light"
+  highlightjsThemeDark = "tomorrow-dark"
   
   darkNav = true
   dark404 = true
