@@ -32,8 +32,8 @@ hasCJKLanguage = true
   
   highlightjs = true
   highlightjsExtraLanguages = ["ocaml"]
-  highlightjsTheme = "tomorrow-light"
-  highlightjsThemeDark = "tomorrow-dark"
+  highlightjsTheme = "tomorrow"
+  highlightjsThemeDark = "tomorrow-night"
   
   darkNav = true
   dark404 = true
