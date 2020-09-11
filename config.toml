@@ -25,6 +25,9 @@ hasCJKLanguage = true
   enableSearch = true
   
   rss = true
+  valine = true
+  LEANCLOUD_APP_ID = "RnBK7pdlGCP1z9aUvG0i12dT-gzGzoHsz"
+  LEANCLOUD_APP_KEY = "HHifu4neoiaqUpBmQN5RCAAm"
   
   email = "charc0al@vip.qq.com"
   
