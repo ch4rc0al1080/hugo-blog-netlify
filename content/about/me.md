@@ -10,7 +10,7 @@ lastmod: 2020-09-08T09:17:48+01:00
 - C/C++~~熟练~~运用
 - PHP~~胡思乱写~~
 - HTML~~忘的光光~~
-- JAVASCRIPT~~出入茅庐~~
+- JAVASCRIPT~~初入茅庐~~
 - 啊D明小子样样精通
 - msfconsole~~只会help~~
 - CTF膜拜大佬
