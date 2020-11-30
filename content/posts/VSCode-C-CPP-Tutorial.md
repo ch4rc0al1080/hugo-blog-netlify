@@ -164,7 +164,7 @@ VSC作为一款高度定制的IDE，其扩展插件&主题自然不能少，这�
 
 
 - `Include Autocomplete` 头文件补全
-- `racket Pair Colorizer` 彩虹花括号
+- `Bracket Pair Colorizer 2` 彩虹花括号
 - `vscode-luogu` 洛谷官方插件，可以看题、提交等，具体见[介绍](https://marketplace.visualstudio.com/items?itemName=himself6565.vscode-luogu)
 - `One Dark Pro` 使用人气最高的主题
 - `Winter is Coming Theme` 禀冬将至！个人喜欢的主题
