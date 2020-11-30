@@ -43,6 +43,6 @@ hasCJKLanguage = true
 
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]
-  lastmod = [":git", "lastmod", "date", "publishDate"]
+  lastmod = [":git", ":fileModTime", "lastmod", "date", "publishDate"]
   publishDate = ["publishDate", "date"]
   expiryDate = ["expiryDate"]
