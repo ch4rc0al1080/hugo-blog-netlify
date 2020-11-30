@@ -18,7 +18,7 @@ hasCJKLanguage = true
   author = "Ch4rc0al"
   description = "Ch4rc0al 的学习笔记与生活随笔"
   avatar = "/me/avatar.jpg"
-  motto = "Being a hASKER"
+  motto = "I will try anything at once."
   categoriesLimitInHeader = 6
   # headerBottomText = ""
   
@@ -40,3 +40,9 @@ hasCJKLanguage = true
   
   darkNav = true
   dark404 = true
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+lastmod = [":git", "lastmod", "date", "publishDate"]
+publishDate = ["publishDate", "date"]
+expiryDate = ["expiryDate"]
