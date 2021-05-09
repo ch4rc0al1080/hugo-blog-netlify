@@ -9,6 +9,7 @@ categories:
   - WriteUps
 tags:
   - Pwn 
+  - CTF
 # nolastmod: true
 ---
 
