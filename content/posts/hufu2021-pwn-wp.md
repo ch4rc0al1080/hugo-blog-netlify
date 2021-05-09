@@ -15,7 +15,7 @@ tags:
 
 <!--more-->
 
-### jdt
+## jdt
 
 >    Arch:     amd64-64-little  
 >    RELRO:    Full RELRO  
@@ -103,7 +103,7 @@ constraints:
 ```
 
 ---
-### tls
+## tls
 >    Arch:     amd64-64-little  
 >    RELRO:    Full RELRO  
 >    Stack:    Canary found  
