@@ -17,6 +17,7 @@ hasCJKLanguage = true
 
   author = "Ch4rc0al"
   description = "Ch4rc0al 的学习笔记与生活随笔"
+  headerTitle = "Ch4rc0al 的博客"
   avatar = "/me/avatar.jpg"
   motto = "I will try anything at once."
   categoriesLimitInHeader = 6
