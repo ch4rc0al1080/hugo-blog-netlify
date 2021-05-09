@@ -12,8 +12,6 @@ tags:
 # nolastmod: true
 ---
 
-# 虎符2021线下Pwn题WP
-
 <!--more-->
 
 ### jdt
