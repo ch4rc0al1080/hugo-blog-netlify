@@ -1,7 +1,7 @@
 ---
 title: 蓝帽杯2021线下Pwn题WP
 author: Ch4rc0al
-
+date: 2021-07-02T18:52:03+08:00
 #cover: /img/cover.jpg
 categories:
   - WriteUps
